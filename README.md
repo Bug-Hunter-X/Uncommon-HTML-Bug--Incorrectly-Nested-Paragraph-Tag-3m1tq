@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to incorrectly nested paragraph tags.  The bug involves placing a paragraph tag directly within a div element's innerHTML using JavaScript. This can lead to unexpected rendering behavior or validation errors in certain browsers or validators. The solution showcases how to properly structure the HTML to avoid the issue.
